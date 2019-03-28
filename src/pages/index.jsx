@@ -121,9 +121,9 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:nazhou@ucsd.edu">Hi</a> or find me on other platforms:{' '}
+           {/* <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}*/}
+            <a href="https://www.instagram.com/nanxyzee/">Instagram</a>
           </ContactText>
         </Inner>
         {/*  
