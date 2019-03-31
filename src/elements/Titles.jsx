@@ -5,7 +5,7 @@ import triangle from '../images/triangle.svg'
 
 export const Title = styled.h1`
   ${tw`text-4xl lg:text-4xl font-serif text-white mb-8 tracking-wide relative inline-block`};
-  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  text-shadow: 0 2px 10px ;
   &:before {
     content: '';
     width: 40px;
